@@ -1,0 +1,13 @@
+.container-fluid {
+  margin: 0 4rem;
+}
+
+.main-banner {
+  background-image: url("./img/banner.jpeg");
+  background-position: center;
+  height: 90vh;
+}
+
+.contact {
+  background-image: url("./img/map.jpeg");
+}
